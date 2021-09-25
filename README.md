@@ -19,6 +19,7 @@
 - `package.json` 项目配置文件
 
 
-# npm install
-
-# node app
+#### npm install
+-安装依赖
+#### node app
+-运行接口文件
